@@ -9,7 +9,7 @@
 
 ## About Simple Ecommerce Backend
 
-Simple Ecommerce Backend is built with Laravel 6, best use with PostgreSQL.
+Simple Ecommerce Backend is built with Laravel 6, best use with MYSQL.
 
 
 After cloning this project, run this command:
